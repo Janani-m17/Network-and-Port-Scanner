@@ -1,7 +1,3 @@
-Certainly! Here's the formatted README for the Network and Port Scanner:
-
----
-
 # Network and Port Scanner
 
 ## Overview
