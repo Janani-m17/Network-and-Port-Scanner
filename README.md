@@ -59,7 +59,3 @@ The output will display a list of devices along with their IP and MAC addresses 
 
 - [Janani](https://github.com/Janani-m17)
 - [Shrinaya](https://github.com/skshrinaya)
-
----
-
-Feel free to modify or expand upon this README as needed!
